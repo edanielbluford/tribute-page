@@ -1,0 +1,17 @@
+main {
+  margin: 2rem auto;
+  width: 500vh;
+  height: 1000vh;
+  max-height: 90%;
+  max-width: 90%;
+}
+#img-div {
+  width: 80%;
+}
+img {
+  height: auto;
+  width: 100%;
+  max-width: 200vh;
+  margin: auto;
+  display: block;
+}
